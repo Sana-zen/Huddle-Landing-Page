@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/huddle---where-fans-become-family-q1lWHOl_cY)
-- Live Site URL: [Live Demo](https://sana-zen.github.io/huddle-landing-page/)
+- Live Site URL: [Live Demo](https://sana-zen.github.io/Huddle-Landing-Page/)
 
 ## Features
 
